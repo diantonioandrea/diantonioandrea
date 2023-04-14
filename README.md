@@ -1,8 +1,6 @@
 ## Andrea Di Antonio, 22
 
-Hi, I'm Andrea Di Antonio and I am a 22 years old Mathematics MSc student at the University of Milano-Bicocca[^1]. 
-
-[^1]: UniMiB.
+Hi, I'm Andrea Di Antonio and I am a 22 years old Mathematics MSc student at the University of Milano-Bicocca, UniMiB. 
 
 ### Past and current studies.
 
