@@ -2,7 +2,7 @@
 
 Hi, I'm Andrea Di Antonio and I am a 22 years old Mathematics MSc student at the University of Milano-Bicocca, UniMiB. 
 
-### Past and current studies.
+### Physics and Mathematics.
 
 I have a Bachelor of Science in Physics from UniMiB and I'm currently attending a Master of Science in Mathematics.  
 At the moment, I am exploring the following topics.
@@ -11,7 +11,7 @@ At the moment, I am exploring the following topics.
 * Modelling.
 * Optimization.
 
-### My GitHub profile.
+### Developing.
 
 As a hobby I enjoy coding simple programs to solve everyday problems and challenge myself to improve even more. My go-to language is Python.  
 I'm currently working on:
