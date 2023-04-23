@@ -15,6 +15,6 @@ At the moment, I am exploring the following topics.
 
 As a hobby, I enjoy coding simple programs to solve everyday problems and challenging myself to improve even more; my go-to language is Python.  
 I'm currently working on:
-* [CLIbrary](https://github.com/diantonioandrea/CLIbrary): A comprehensive Python library of standard CLI utilities for convenient command, I/O, and file handling.
-  * [openBriefcase](https://github.com/diantonioandrea/openBriefcase): Accounting utility written in Python and built with CLIbrary.
-* [lookUp](https://github.com/diantonioandrea/lookUp): `cat FILE | grep STRING` reimagined.
+* [**CLIbrary**](https://github.com/diantonioandrea/CLIbrary): A comprehensive Python library of standard CLI utilities for convenient command, I/O, and file handling.
+  * [**openBriefcase**](https://github.com/diantonioandrea/openBriefcase): Accounting utility written in Python and built with CLIbrary.
+* [**lookUp**](https://github.com/diantonioandrea/lookUp): `cat FILE | grep STRING` reimagined.
