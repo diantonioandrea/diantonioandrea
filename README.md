@@ -18,4 +18,3 @@ I'm currently working on:
 * [**misura**](https://github.com/diantonioandrea/misura): Python library for easy unit handling and conversion for scientific & engineering applications.
 * [**CLIbrary**](https://github.com/diantonioandrea/CLIbrary): A comprehensive Python library of standard CLI utilities for convenient command, I/O, and file handling.
   * [**openBriefcase**](https://github.com/diantonioandrea/openBriefcase): Accounting utility written in Python and built with CLIbrary.
-* [**lookUp**](https://github.com/diantonioandrea/lookUp): `grep STRING FILE` reimagined.
