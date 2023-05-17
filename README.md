@@ -14,5 +14,6 @@ At the moment, I am exploring the following topics.
 ### Developing.
 
 As a hobby, I enjoy coding simple programs to solve everyday problems and challenging myself to improve even more; my go-to language is Python.  
+
 I'm currently working on:
 * [**misura**](https://github.com/diantonioandrea/misura): Python library for easy unit handling and conversion for scientific & engineering applications.
