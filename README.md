@@ -11,7 +11,7 @@ At the moment, I am exploring the following topics.
 * Modelling.
 * Optimization.
 
-### Developing.
+### Development.
 
 As a hobby, I enjoy coding simple programs to solve everyday problems and challenging myself to improve even more; my go-to language is Python.  
 
