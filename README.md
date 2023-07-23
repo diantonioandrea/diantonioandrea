@@ -17,4 +17,3 @@ As a hobby, I enjoy coding simple programs to solve everyday problems and challe
 
 I'm currently working on:
 - [**misura**](https://github.com/diantonioandrea/misura): Python library providing effortless unit handling and currency conversion for scientific and engineering purposes.
-- [**promemoria**](https://github.com/diantonioandrea/promemoria): Intuitive Python based tool to create reminders in the shell.
