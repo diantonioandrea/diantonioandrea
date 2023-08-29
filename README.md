@@ -6,14 +6,10 @@ Hi, I'm Andrea Di Antonio and I am a 22-year-old Mathematics MSc student at the 
 
 I have a Bachelor of Science in Physics from UniMiB and I am currently pursuing a Master of Science in Mathematics.  
 At the moment, I am exploring the following topics.
-* Numerical Analysis.
+* Numerical Analysis and Numerical Methods for Partial Differential Equations.
 * Probability and Stochastic Processes.
 * Modelling.
-* Optimization.
 
 ### Development.
 
-As a hobby, I enjoy coding simple programs to solve everyday problems and challenging myself to improve even more; my go-to language is Python.  
-
-I'm currently working on:
-- [**misura**](https://github.com/diantonioandrea/misura): Python library providing effortless unit handling and currency conversion for scientific and engineering purposes.
+As a hobby, I enjoy coding simple programs to solve everyday problems and challenging myself to improve even more; my go-to language is Python.
