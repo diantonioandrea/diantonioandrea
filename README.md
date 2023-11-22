@@ -12,4 +12,4 @@ At the moment, I am exploring the following topics:
 
 ### Development.
 
-As a hobby, I enjoy coding simple programs to solve everyday problems and challenging myself to improve even more; my go-to languages are **Python** and **C++**.
+As a hobby, I enjoy coding simple programs to solve everyday problems and challenge myself to improve even more; my go-to languages are **Python** and **C++**.
