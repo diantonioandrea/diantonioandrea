@@ -12,4 +12,6 @@ At the moment, I am exploring the following topics:
 
 ### Development.
 
-As of now, I'm working on a `C++20+` library for the space-time discontinuous Galërkin method, applied to convection, diffusion, and reaction problems, as part of my master's thesis.
+As of now, I'm working on the following projects:
+- [ivo](https://github.com/diantonioandrea/ivo): A `C++20+` DGFE library for `2+1` space-time problems, as part of my master's thesis.
+- [descartes](https://github.com/diantonioandrea/descartes): A `C++23` library for geometric applications in any dimension.
