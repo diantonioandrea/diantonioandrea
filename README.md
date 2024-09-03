@@ -12,4 +12,4 @@ At the moment, I am exploring the following topics:
 
 ### Development.
 
-As a hobby, I enjoy coding simple programs to solve everyday problems and challenge myself to improve even more; my go-to languages are **Python** and **C++**.
+As of now, I'm working on a `C++20+` library for the space-time discontinuous Galërkin method, applied to convection, diffusion, and reaction problems, as part of my master's thesis.
