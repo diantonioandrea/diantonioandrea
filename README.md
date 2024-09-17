@@ -13,4 +13,4 @@ At the moment, I am exploring the following topics:
 ### Development.
 
 As of now, I'm working on the following projects:
-- [**ivo**](https://github.com/diantonioandrea/ivo): A `C++20+` DGFE library for `2+1` space-time problems, developed as part of my master's thesis.
+- [**ivo**](https://github.com/diantonioandrea/ivo): A `C++23` DGFE library for `2+1` space-time problems, developed as part of my master's thesis.
