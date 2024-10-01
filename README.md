@@ -14,3 +14,4 @@ At the moment, I am exploring the following topics:
 
 As of now, I'm working on the following projects:
 - [**ivo**](https://github.com/diantonioandrea/ivo): A `C++23` [DGFE](https://en.wikipedia.org/wiki/Discontinuous_Galerkin_method) library for `2+1` space-time problems, developed as part of my master's thesis.
+- - [**SLAY**](https://github.com/diantonioandrea/SLAY): A `C++23` **S**imple **L**inear **A**lgebra librar**Y**, developed as part of the Numerical Linear Algebra course.
