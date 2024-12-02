@@ -5,7 +5,8 @@ Hi, I'm Andrea, a 24-year-old Mathematics MSc student at the University of Milan
 ## Interests
 
 At the moment, I am exploring the following topics:
-- Numerical Analysis and Numerical Methods for Partial Differential Equations such as the Discontinuous Galërkin Method.
+<!-- - Numerical Analysis and Numerical Methods for Partial Differential Equations such as the Discontinuous Galërkin Method. -->
+- Numerical Analysis and Numerical Methods for Partial Differential Equations.
 - Numerical Linear Algebra.
 - Probability and Stochastic Processes.
 
