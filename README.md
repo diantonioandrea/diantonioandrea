@@ -2,15 +2,14 @@
 
 Hi, I'm Andrea, a 24-year-old Mathematics MSc student at the University of Milano-Bicocca, UniMiB. 
 
-## Physics and Mathematics.
+## Interests
 
-I have a BSc in Physics from UniMiB and I am currently pursuing a Master of Science in Mathematics.  
 At the moment, I am exploring the following topics:
 - Numerical Analysis and Numerical Methods for Partial Differential Equations such as **DG**.
 - Numerical Linear Algebra.
 - Probability and Stochastic Processes.
 
-## Development.
+## Development
 
 ### Current Projects
 
