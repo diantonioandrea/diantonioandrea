@@ -17,7 +17,7 @@ At the moment, I am exploring the following topics:
 ### Current Projects
 
 I am currently focusing on the following projects:
-- [**ivo**](https://github.com/diantonioandrea/ivo): A [DGFE](https://en.wikipedia.org/wiki/Discontinuous_Galerkin_method) library for `2+1` space-time problems, written in `C++23`, and developed as part of my **master's thesis** at _UniMiB_.
+- [**ivo**](https://github.com/diantonioandrea/ivo): A discontinuous Galërkin library for `2+1` space-time problems, written in `C++23`, and developed as part of my **master's thesis** at _UniMiB_.
 
 ### Notable Past Projects
 
