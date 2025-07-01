@@ -10,6 +10,7 @@ At the moment, I am exploring the following topics:
 - Numerical Linear Algebra.
     - Eigenvalues algorithms.
     - Iterative solvers and preconditioning techniques.
+    - Randomization techniques.
 - Probability and Stochastic Processes.
 
 ## Development
