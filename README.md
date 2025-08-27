@@ -1,6 +1,6 @@
 # Andrea Di Antonio, 24
 
-Hi, I’m Andrea, a Mathematics MSc graduate from the University of Milano-Bicocca, UniMiB.
+Hi, I’m Andrea, a Mathematics PhD Student at the Paul Scherrer Institut (PSI) and at the École Polytechnique Fédérale de Lausanne (EPFL).
 
 ## Interests
 
