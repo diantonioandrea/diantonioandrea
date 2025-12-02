@@ -4,21 +4,13 @@ Hi, I’m Andrea, a Mathematics PhD Student at the [Paul Scherrer Institut](http
 
 ## Interests
 
-At the moment, I am exploring the following topics:
-- Numerical Analysis and Numerical Methods for Partial Differential Equations.
-    - Discontinuous Galërkin methods.
-- Numerical Linear Algebra.
-    - Eigenvalues algorithms.
-    - Iterative solvers and preconditioning techniques.
-    - Randomization techniques.
-- Probability and Stochastic Processes.
+At the moment, I am exploring topics in Numerical Linear Algebra, while my other interests include:
+- Numerical Analysis and numerical methods for partial differential equations, with a particular focus on Discontinuous Galërkin methods.
+- Probability theory and stochastic processes.
+
+<!-- 
 
 ## Development
-
-<!-- ### Current Projects
-
-I am currently focusing on the following projects:
--  -->
 
 ### Notable Past Projects
 
@@ -28,4 +20,6 @@ Here are some interesting projects I have worked on:
 - [**NAQRA**](https://github.com/diantonioandrea/NAQRA), _**N**eon **A**ccelerated **QR** **A**lgorithm_: An implementation of the [_QR Algorithm_](https://en.wikipedia.org/wiki/QR_algorithm) with _Double Wilkinson's Shift_ utilizing [_Neon_](https://developer.arm.com/Architectures/Neon) intrinsics, written in `C23`.
 - [**pacs-project**](https://github.com/diantonioandrea/pacs-project): An implementation of the hp-adaptive discontinuous Galërkin method, written in `C++20`, and developed as part of the exam for the **Advanced Programming for Scientific Computing** course at _PoliMi_.
 - [**mnaedp-project**](https://github.com/diantonioandrea/mnaedp-project): An implementation of the Crouzeix-Raviart Element for the Stokes problem, written in `MATLAB`, and developed as part of the exam for the **Advanced Numerical Methods for Partial Differential Equations** course at _UniMiB_.
-- [**maa-homeworks**](https://github.com/diantonioandrea/maa-homeworks): Some road traffic simulations, written in `Python 3`, and developed as part of the exam for the **Applied Analysis Methods** course at _UniMiB_.
+- [**maa-homeworks**](https://github.com/diantonioandrea/maa-homeworks): Some road traffic simulations, written in `Python 3`, and developed as part of the exam for the **Applied Analysis Methods** course at _UniMiB_. 
+
+-->
