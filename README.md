@@ -1,6 +1,6 @@
 # Andrea Di Antonio, 25
 
-Hi, I’m Andrea, a Mathematics PhD Student at the [Paul Scherrer Institut](https://www.psi.ch/en/lsm/people/andrea-di-antonio) (PSI) and at the [École Polytechnique Fédérale de Lausanne](https://people.epfl.ch/andrea.diantonio) (EPFL).
+Hi, I’m Andrea, a Mathematics PhD Student at the [Paul Scherrer Institut](https://www.psi.ch/en/lsm/people/andrea-di-antonio) and at the [École Polytechnique Fédérale de Lausanne](https://people.epfl.ch/andrea.diantonio).
 
 ## Interests
 
